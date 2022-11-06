@@ -1,4 +1,4 @@
-class, leftweight, leftdistance, rightweight, rightdistance
+class,lw,ld,rw,rd
 B,1,1,1,1
 R,1,1,1,2
 R,1,1,1,3
